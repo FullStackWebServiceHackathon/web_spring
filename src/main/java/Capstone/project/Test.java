@@ -1,2 +1,5 @@
-package Capstone.project;public class Test {
+package Capstone.project;
+
+public class Test {
+
 }
